@@ -4,6 +4,6 @@
 
 ## Results
 > This is the F1 score for the three entities:
-    - Person: *0.51*
-    - Organization: *0.4*
-    - Location: *0.74*
+> - Person: *0.51*
+> - Organization: *0.4*
+> - Location: *0.74*
